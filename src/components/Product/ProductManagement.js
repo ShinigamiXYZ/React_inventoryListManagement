@@ -11,7 +11,6 @@ export default class AddInventory extends Component {
       products: [],
       showDetails: false,
       selectedProduct: null,
-      isDirty: false, // indicates whether the data has been modified by the user
     };
     this.formData = createRef();
   }
