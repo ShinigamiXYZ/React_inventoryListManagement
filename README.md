@@ -1,7 +1,4 @@
-img {
-  height: 40px;
-  width: 120px;
-}
+
 
 <h1 align="center" >
  Projet Gestion inventaire React-Bootstrap avec JSON-server local
