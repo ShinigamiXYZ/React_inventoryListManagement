@@ -1,4 +1,18 @@
-# Projet Gestion inventaire
+img {
+  height: 40px;
+  width: 120px;
+}
+
+<h1 align="center" >
+ Projet Gestion inventaire React-Bootstrap avec JSON-server local
+</h1>
+<p align="center">
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"  style="height:60px; width:170px">
+  <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white"  style="height:60px; width:170px">
+  <img src="https://img.shields.io/badge/json-5E5C5C?style=for-the-badge&logo=json&logoColor=white"  style="height:60px; width:170px">
+</p>
+
+
 
 Ce projet est creer a partir de [Create React App](https://github.com/facebook/create-react-app).
 
@@ -82,3 +96,4 @@ Cette section a été déplacée [ici](https://facebook.github.io/create-react-a
 ### `npm run build` échoue à la réduction de taille
 
 Cette section a été déplacée [ici](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+ 
