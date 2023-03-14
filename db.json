@@ -1,0 +1,28 @@
+{
+  "inventory": [
+    {
+      "name": "Iphone12",
+      "description": "celulaire intelligent",
+      "prix": "8999",
+      "qty": 24,
+      "categorie": "Électronique",
+      "id": 0
+    },
+    {
+      "name": "Iphone15",
+      "description": "celulaire intelligent",
+      "prix": "1599",
+      "qty": 4,
+      "categorie": "Électronique",
+      "id": 1
+    },
+    {
+      "name": "Iphone15",
+      "description": "celulaire intelligent",
+      "prix": "1599",
+      "qty": 9,
+      "categorie": "Électronique",
+      "id": 2
+    }
+  ]
+}
