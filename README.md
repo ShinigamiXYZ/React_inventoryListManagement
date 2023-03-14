@@ -15,10 +15,10 @@ Ce projet est creer a partir de [Create React App](https://github.com/facebook/c
 
 # Ressources utilisés
 
-[react-boot-strap](https://react-bootstrap.github.io/)
-[react](https://fr.reactjs.org/)
-[node_21622-markitosanches](https://github.com/markitosanches/node_21622)
-[Make-a-product-list-tutorial](https://www.youtube.com/watch?v=0UNNThVWXr0&t=4472s)
+- [react-boot-strap](https://react-bootstrap.github.io/)
+- [react](https://fr.reactjs.org/)
+- [node_21622-markitosanches](https://github.com/markitosanches/node_21622)
+- [Make-a-product-list-tutorial](https://www.youtube.com/watch?v=0UNNThVWXr0&t=4472s)
 
 
 
